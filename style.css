@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@300&family=Raleway:wght@300&family=Roboto&family=Space+Mono&family=Varela&display=swap');
 
 body {
-  background-color: F0D290;
+  background-color: #F0D290;
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
-  color: 781D42;
+  color: #781D42;
   font-size: 17px;
   line-height: normal;
 }
 
 h1 {
-  color: A3423C;
+  color: #A3423C;
   font-family: 'Roboto', sans-serif;
   font-size: 32px;
   font-weight: 900;
@@ -18,26 +18,26 @@ h1 {
 }
 
 h2 {
-  color: DE834D;
+  color: #DE834D;
   font-family: 'Varela', sans-serif;
   font-size: medium;
   line-height: normal;
 }
 
 h3 {
-  color: 54BAB9;
+  color: #54BAB9;
   font-family: 'Poppins', sans-serif;
   font-size: small;
   line-height: normal;
 }
 
 a {
-  color: A3423C;
+  color: #A3423C;
   text-decoration: brown;
 }
 
 a:hover {
-  color: 781D42;
+  color: #781D42;
 }
 
 .img-circle {
